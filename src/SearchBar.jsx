@@ -114,7 +114,7 @@ function SearchBar({darkMode}) {
               href={data.html_url}
               target="_blank"
               rel="noopener noreferrer"
-              style={{ color: '#3182ce' }}
+              style={{ textDecoration:'none' }}
             >
               Visit profile
             </a>
